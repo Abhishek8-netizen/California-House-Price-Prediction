@@ -33,11 +33,9 @@ Rather than focusing on model novelty, the emphasis is on:
 ## Models
 Two models are implemented:
 
-Linear Regression : 
-Used as a baseline to establish reference performance.
+- Linear Regression : Used as a baseline to establish reference performance.
 
-Random Forest Regressor : 
-Selected for deployment because it perfomed better on non-linear data.
+- Random Forest Regressor : Selected for deployment because it perfomed better on non-linear data.
 
 ---
 
