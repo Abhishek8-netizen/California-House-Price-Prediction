@@ -10,9 +10,9 @@ Rather than focusing on model novelty, the emphasis is on:
 
 - Clean data preparation
 
-- Reproducible model training
+- Model training
 
-- Objective model evaluation
+- Model evaluation
 
 - Practical deployment for inference
 
@@ -37,7 +37,7 @@ Linear Regression :
 Used as a baseline to establish reference performance.
 
 Random Forest Regressor : 
-Selected for deployment due to improved performance on non-linear relationships.
+Selected for deployment because it perfomed better on non-linear data.
 
 ---
 
@@ -65,7 +65,7 @@ The Streamlit app is divided into multiple tabs:
 
 - Training ML Models – Train and evaluate models
 
-- Evaluation – Feature importance visualization
+- Evaluation – Feature importance 
 
 - Prediction – Predict house prices using user input
 
