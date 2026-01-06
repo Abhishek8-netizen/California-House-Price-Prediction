@@ -4,7 +4,7 @@ The project demonstrates data preprocessing, model training, evaluation, and dep
 
 ---
 
-# Overview
+## Overview
 This project uses the California Housing dataset to predict the median house value based on geographical, demographic, and housing-related features.
 Rather than focusing on model novelty, the emphasis is on:
 
@@ -18,7 +18,7 @@ Rather than focusing on model novelty, the emphasis is on:
 
 ---
 
-# Key Features
+## Key Features
 
 - CSV upload with fallback to default dataset
 
@@ -30,7 +30,7 @@ Rather than focusing on model novelty, the emphasis is on:
 
 ---
 
-# Models
+## Models
 Two models are implemented:
 
 Linear Regression : 
@@ -41,7 +41,7 @@ Selected for deployment due to improved performance on non-linear relationships.
 
 ---
 
-# Evaluation Metrics
+## Evaluation Metrics
 
 Model performance is evaluated using:
 
@@ -53,7 +53,7 @@ Model performance is evaluated using:
 
 ---
 
-# Web Application (Streamlit)
+## Web Application (Streamlit)
 
 The Streamlit app is divided into multiple tabs:
 
@@ -71,7 +71,7 @@ The Streamlit app is divided into multiple tabs:
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 - Python
 
