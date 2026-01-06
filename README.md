@@ -84,3 +84,8 @@ The Streamlit app is divided into multiple tabs:
 - Streamlit
 
 - Pickle
+
+---
+
+## Streamlit App Link
+<a href="https://california-house-price-prediction-2mwj7awhmu5pcryygxjfuv.streamlit.app/"> California House Price Prediction Model </a>
