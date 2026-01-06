@@ -33,10 +33,10 @@ Rather than focusing on model novelty, the emphasis is on:
 # Models
 Two models are implemented:
 
-Linear Regression
+Linear Regression : 
 Used as a baseline to establish reference performance.
-<hr>
-Random Forest Regressor
+
+Random Forest Regressor : 
 Selected for deployment due to improved performance on non-linear relationships.
 
 ---
@@ -45,11 +45,11 @@ Selected for deployment due to improved performance on non-linear relationships.
 
 Model performance is evaluated using:
 
-- Mean Squared Error (MSE)
+- Mean Squared Error (MSE) - penalizes large errors
 
-- Mean Absolute Error (MAE)
+- Mean Absolute Error (MAE) - real-world deviation
 
-- R² Score
+- R² Score - variance
 
 ---
 
