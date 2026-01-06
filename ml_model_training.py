@@ -102,7 +102,7 @@ def predict_price(input_list):
         model = pickle.load(f)
 
     input_array = np.array(input_list).reshape(1,-1)
-    prediction = model.predict(input_array)
+    prediction = model.predict(input_array).item()
     return prediction
 
 
@@ -112,3 +112,4 @@ if __name__ == "__main__":
     linear_regression(df)
     print("----------------------------------")
     random_forest_regressor(df,0)
+
